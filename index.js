@@ -1,7 +1,7 @@
 'use strict';
 
 var calculator = require('./app/calculator');
-
+//variables
 var a = 3;
 var b = 5;
 //prueba de salida
